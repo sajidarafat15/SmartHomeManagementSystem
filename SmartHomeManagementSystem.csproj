@@ -7,4 +7,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="03_Repositories\" />
+    <Folder Include="02_Interfaces\" />
+    <Folder Include="01_Models\" />
+    <Folder Include="04_Services\" />
+    <Folder Include="05_Controllers\" />
+    <Folder Include="06_Database\" />
+    <Folder Include="07_Utilities\" />
+    <Folder Include="08_Enums\" />
+    <Folder Include="09_Exceptions\" />
+  </ItemGroup>
+
 </Project>
