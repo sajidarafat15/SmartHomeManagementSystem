@@ -53,7 +53,7 @@ The system provides a secure, user-friendly, and intelligent solution by integra
 
 ## 📂 Project Structure
 
----text
+```text
 SmartHomeManagementSystem/
 │
 ├── README.md
