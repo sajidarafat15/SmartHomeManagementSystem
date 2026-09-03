@@ -59,8 +59,11 @@ SmartHomeManagementSystem/
 ├── README.md
 │
 ├── Documentation/
-│   └── SRS/
-│       └── SmartHomeManagementSystem_SRS.pdf
+│   ├── SRS/
+│   │   └── SmartHomeManagementSystem_SRS.pdf
+│   │
+│   └── Database Documentation/
+│       └── Database Design (SmartHome+).pdf
 │
 ├── 01_Models/
 ├── 02_Interfaces/
