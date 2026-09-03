@@ -93,7 +93,7 @@ Current Progress:
 
 - ✅ Project Planning
 - ✅ Software Requirements Specification (SRS)
-- 🔄 Database Design
+- ✅ Database Design
 - 🔄 ASP.NET Core Web API
 - 🔄 Android Mobile Application
 - ⏳ Testing
